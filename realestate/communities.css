@@ -1,0 +1,285 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	background: #234464;
+	height: 80px;
+	width: 100%;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+label.logo{
+	color: white;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+}
+nav ul{
+	float: right;
+	margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 50px;
+	margin: 0 10px ;
+}
+nav ul li a{
+	color: white;
+	font-size: 15px;
+    margin: 5px;
+	border-radius: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+a:hover{
+	background: transparent;
+    transition: .3s;
+}
+.topim{
+	width: 10%;
+	position: absolute;
+	top: 13px;
+	left: 170px;
+	height: 60px;
+}
+footer{
+	background: #234464;
+	padding: 50px;
+	width: 100%;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+	position: absolute;
+}
+footer ul li{
+	display: inline-block;
+	line-height: 40px;
+	margin: 0 5px ;
+}
+footer ul li a{
+	color: white;
+	font-size: 15px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	position: relative;
+	top: -25px;
+	left: 220px;
+	text-decoration: none;
+}
+.big{
+	position: relative;
+	bottom: -35px;
+	left: 350px;
+    color: white;
+}
+.a1{
+	text-decoration: none;
+	color: white;
+}
+.font
+{
+   text-align: center;
+	font-size: 25px;
+	color: white;
+}
+.im1{
+	width: 100%;
+	height: 500px;
+}
+.head1{
+	  color: #234464;
+	  text-align: center;
+	  padding-top: 100px;
+	  
+}
+.line{
+	border: solid 2px #cbb874;
+	background: #cbb874;
+	width: 80px;
+	height: 3px;
+	position: relative;
+	left: 610px;
+	top: 90px;
+}
+.paradiv{
+	width: 40%;
+	position: relative;
+	left: 410px;
+	font-size: 19px;
+}
+.anchr{
+	color: #cbb874;
+}
+.ime1{
+	width: 23.88%;
+}
+.divim{
+	display: inline-block;
+	padding-top: 40px;
+}
+.divline{
+    border: solid 2px #cbb874;
+	background: #cbb874;
+	width: 80px;
+	height: 3px;	
+    position: relative;
+    left: 620px;
+    top: 80px;
+}
+.head{
+	color: #234464;
+	text-align: center;
+	padding-top: 90px;
+}
+.divhed{
+	width: 50%;
+	position: relative;
+	left: 340px;
+	font-size: 20px;
+}
+.imeg{
+	width: 100%;
+	height: 300px;
+	padding-top: 50px;
+}
+.container2{
+	width: 50%;
+	background: #eae7e0;
+	position: relative;
+	top: -500px;
+	left: 674px;
+	height: 500px;
+}
+.content{
+	padding-top: 70px;
+	padding-left: 70px;
+}
+.ime6{
+	border-radius: 200px;
+	position: relative;
+	top: 100px;
+	left: 200px;
+}
+.row2{
+	background: #f4f3ef;
+	width: 50%;
+	height: 500px;
+}
+.head3{
+color: #23448c;
+	font-size: 30px;
+}
+.head4{
+color: #23448c;
+font-size: 18px;
+font-style: italic;
+}
+.anchr1{
+	color: #cbb874;
+    border: solid 3px #cbb874;
+	padding: 15px;
+	font-size: 14px;
+	position: relative;
+	top: 20px;
+	text-decoration: none;
+}
+.head5{
+	color: #23448c;
+	text-align: center;
+	position: relative;
+	top: -500px;
+}
+.mock{
+	border: solid 2px #cbb874;
+	background: #cbb874;
+	width: 75px;
+	height: 2px;
+	border-radius: 2px;
+	position: relative;
+	top: -430px;
+    left: 620px;
+}
+.para2{
+	text-align: center;
+	width: 50%;
+	position: relative;
+	top: -400px;
+	font-size: 20px;
+	left: 340px;
+}
+.in{
+	border: solid 2px #cbb8740;
+	background: #cbb874;
+	border-color: #cbb874;
+	width: 200px;
+	height: 50px;
+}
+.in1{
+	text-align: center;
+	position: relative;
+	top: -370px;
+}
+select{
+	background: #cbb874;
+	border-color: #cbb874;
+}
+option{
+	color: black;
+    background: white;
+    position: relative;
+}
+.sel{
+	border: solid 2px #cbb874;
+	background: #cbb874;
+	width: 320px;
+	height: 50px;
+	position: relative;
+	top: -330px;
+	left: 342px;
+}
+.sel1{
+	border: solid 2px #cbb874;
+	background: #cbb874;
+	width: 320px;
+	height: 50px;
+	position: relative;
+	top: -383px;
+	left: 685px;
+}
+.mes{
+	border: solid 2px #cbb874;
+	background: #cbb874;
+	width: 654px;
+	height: 250px;
+}
+.mes1{
+       text-align: center;
+       position: relative;
+       top: -350px;
+}
+ .but{
+ 	 border: solid 2px #cbb874;
+     background: #cbb874;
+     width: 150px;
+     height: 50px;
+     font-size: 13px;
+     text-transform: uppercase;
+     color: white;
+     padding: 10px;
+ }
+ .but1{
+    position: relative;
+    top: -300px;
+    text-align: center;
+ }
+ .para1{
+ 	font-size: 20px;
+ }

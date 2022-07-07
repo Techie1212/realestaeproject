@@ -1,0 +1,355 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	background: #234464;
+	height: 80px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+nav ul{
+	float: right;
+	margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 50px;
+	margin: 0 10px ;
+}
+nav ul li a{
+	color: white;
+	font-size: 15px;
+    margin: 5px;
+	border-radius: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+a:hover{
+	background: transparent;
+    transition: .3s;
+}
+.topim{
+	width: 10%;
+	position: absolute;
+	top: 13px;
+	left: 170px;
+	height: 60px;
+}
+footer{
+	background: #234464;
+	padding: 50px;
+	width: 100%;
+	position: relative;
+	top: -3000px;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+footer ul li{
+	display: inline-block;
+	line-height: 40px;
+	margin: 0 5px ;
+}
+footer ul li a{
+	color: white;
+	font-size: 15px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	position: relative;
+	top: -25px;
+	left: 220px;
+	text-decoration: none;
+}
+.big{
+	position: relative;
+	bottom: -35px;
+	left: 350px;
+    color: white;
+}
+.a1{
+	text-decoration: none;
+	color: white;
+}
+.font
+{
+   text-align: center;
+	font-size: 25px;
+	color: white;
+}
+.para{
+	color: #234464;
+	position: relative;
+	top: 80px;
+	text-align: center;
+	font-size: 40px;
+}
+.ime2{
+	position: relative;
+	top: -300px;
+    
+}
+.ime3{
+	height: 200px;
+}
+.divime{
+     padding-top: 100px;
+     position: relative;
+     left: 200px;
+}
+.box{
+	border: solid 2px transparent;
+	width: 21.95%;
+	background:#234464;
+	height: 700px;
+	color: white;
+	position: relative;
+	top: -4px;
+}
+.paradiv{
+	font-size: 22px;
+	padding-left: 30px;
+	padding-right: 20px;
+}
+.ime2{
+	position: relative;
+	top: -908px;
+	left: 550px;
+}
+.box1{
+	border: solid 2px transparent;
+	width: 21.95%;
+	height: 420px;
+	color: white;
+	background: #234464;
+	position: relative;
+	top: -912px;
+	left: 550px;
+
+}
+.paradiv1{
+	font-size: 22px;
+	padding-left: 30px;
+	padding-right: 25px;
+}
+.divime1{
+	position: relative;
+	top: -1535px;
+	left: 840px;
+}
+.box2{
+	border: solid 2px transparent;
+	width: 20.4%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -4px;
+	height: 350px;
+}
+.paradiv2{
+	font-size: 22px;
+	padding-left: 30px;
+	padding-right: 25px;
+}
+.heddiv{
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 25px;
+}
+.heddiv1{
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 25px;
+}
+.heddiv2{
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 25px;
+}
+.divhead{
+    border: solid 2px transparent;
+	width: 21.96%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -35px;	
+	height: 450px;
+}
+.divhead1{
+     border: solid 2px transparent;
+	width: 21.96%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -35px;	
+	height: 560px;
+}
+.divhead2{
+    border: solid 2px transparent;
+	width: 20.4%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -35px;	
+	height: 550px;
+
+}
+.divline1{
+      position: relative;
+      top: -1170px;
+      left: 200px;
+}
+.divline2{
+      position: relative;
+      top: -2210px;
+      left: 520px;
+}
+.divline3{
+     position: relative;
+     top: -3060px;
+     left: 840px;
+}
+.ime4{
+	width: 20.7%;
+}
+.paradiv3{
+    font-size: 22px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
+.headdiv1{
+      padding-top: 20px;
+      padding-left: 30px;
+      padding-right: 25px;
+}
+.divime2{
+	position: relative;
+	left: -30px;
+}
+.divhead01{
+    border: solid 2px transparent;
+	width: 21.96%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -35px;
+	height: 500px; 
+}
+.divhead11{
+    border: solid 2px transparent;
+	width: 21.96%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -35px;
+	height: 400px;
+}
+.divhead12{
+    border: solid 2px transparent;
+	width: 20.4%;
+	color:white;
+	background: #234464; 
+	position: relative;
+	top: -35px;
+	height: 300px;
+}
+.divime01{
+	position: relative;
+	top: -2715px;
+	left: 200px;
+}
+.divime11{
+    position: relative;
+    top: -3690px;
+    left: 520px;
+}
+.divime12{
+    position: relative;
+    top: -4500px;
+    left: 840px;
+}
+.paradi{
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 25px;
+}
+.divhe{
+	padding-left: 30px;
+	padding-right: 25px;
+	padding-top: 20px;
+}
+.image11{
+	width: 20.7%;
+}
+.divhead02{
+	border: solid 2px transparent;
+	width: 21.95%;
+	color:white;
+	background: #234464;
+	position: relative;
+	top: -3.5px;
+}
+.divhead21{
+	border: solid 2px transparent;
+	width: 21.95%;
+	color:white;
+	background: #234464;
+	position: relative;
+	top: -3.9px;
+}
+.divhead22{
+	border: solid 2px transparent;
+	width: 21.95%;
+	color:white;
+	background: #234464;
+	position: relative;
+	top: -3.98px;
+}
+.divime02{
+	position: relative;
+	top: -3950px;
+	left: 200px;
+}
+.divime21{
+	position: relative;
+	top: -4740px;
+	left: 520px;
+}
+.divime22{
+       position: relative;
+       top: -5710px;
+       left: 840px;
+}
+.image12{
+	width: 20.7%;
+}
+.divhead22{
+	width: 20.4%;
+}
+.paradiv1{
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 25px;
+}
+.divhe02{
+	padding-top: 25px;
+	padding-left: 30px;
+    padding-right: 25px;
+}
+.anchor{
+	color: #cbb874;
+	font-size: 12px;
+	position: relative;
+	left: 10px;
+	font-weight: 400;
+	text-decoration: none;
+	letter-spacing: 1.25px;
+}
